@@ -1,0 +1,4 @@
+train: /kaggle/working/yolo/train\images
+val: /kaggle/working/yolo/test\images
+nc: 2
+names: [ 'rbc', 'wbc']
